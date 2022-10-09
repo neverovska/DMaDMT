@@ -1,2 +1,4 @@
 # DMaDMT
-Data Models and Database Management Tools project
+Project theme: database for collecting
+Full name: Neveroskaya Alexandra
+Group: 053502
